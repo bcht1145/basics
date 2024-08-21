@@ -1,0 +1,10 @@
+{
+    "PluginName": "main_基础功能",
+    "DependentLibraries": ["requests","psutil"],
+    "IsLibraries": false,
+    "PluginIcon": null,
+    "PluginAuthor": "不出胡桃",
+    "MainPyName": "PluginTemplate",
+    "PluginDescription": "null",
+    "EnablePlugin": true
+}
